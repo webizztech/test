@@ -1,6 +1,6 @@
-# test
+# Test
 
-1) general php test:
+# 1) general php test:
 
    code is in "phptask" folder
 
@@ -24,6 +24,6 @@
 
       Next 4 conditions passed.                  
 
-2) general design test:
+# 2) general design test:
 
    code is in "designtask" folder
