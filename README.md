@@ -4,7 +4,7 @@
 
    code is in "phptask" folder (changes made only in classes folder files)
 
-   # Issues
+   # Issues & Solutions
 
    a) Error: there is need of mehtod declaration or abstract method declaration (in classes/BankAccount.php)
       
