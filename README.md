@@ -1,6 +1,6 @@
 # Test
 
-# 1) PHP test:
+# 1) PHP Test:
 
    code is in "phptask" folder (changes made only in classes folder files)
 
@@ -27,6 +27,6 @@
 
       Next 4 conditions passed.                  
 
-# 2) Design test:
+# 2) Design Test:
 
    code is in "designtask" folder
