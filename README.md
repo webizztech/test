@@ -1,8 +1,8 @@
 # Test
 
-# 1) general php test:
+# 1) PHP test:
 
-   code is in "phptask" folder
+   code is in "phptask" folder (changes made only in classes folder files)
 
    # Issues
 
@@ -20,13 +20,13 @@
       
       Next 3 conditions passed.
                 
-   c) Exceptions task: need to generate mentioned exceptions as per operations
+   c) Exception Errors: need to generate mentioned exceptions as per operations
       
       solution: To throw mentioned exceptions, check relevant conditions & generate exception messages using statement
       "throw new Exception('msg');". Using same remaining exception conditions are done.
 
       Next 4 conditions passed.                  
 
-# 2) general design test:
+# 2) Design test:
 
    code is in "designtask" folder
